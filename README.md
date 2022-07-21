@@ -1,6 +1,1 @@
-- 👋 Hi, I’m Precious Betine
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning the MERN stack
-- 💞️ I’m looking to collaborate on some software and web design projects
-- 📫 You can contact me via preciousbetine@gmail.com
 - 🐢 Slowly working on my Operating System. Will finish it one day.
