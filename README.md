@@ -1,1 +1,1 @@
-- 🐢 Slowly working on my Operating System. Will finish it one day.
+🐢 slowly working on my operating system. will complete it one day 🐢
