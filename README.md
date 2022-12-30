@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on **My Operating System**
 
-🌱 I’m currently learning **Machine Learning, AI and Arduino**
+🌱 I’m currently learning **AI with tensorflow**
 
 👯 I’m looking to collaborate on **Fullstack Web Development Projects**
 
