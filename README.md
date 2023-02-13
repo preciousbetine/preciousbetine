@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm preciousbetine</h1>
-<h3 align="center">Developer. Programmer. Everything in between.</h3>
+<h2>Hey, there! 👋</h2>
+<!-- <h3 align="center">Developer. Programmer. Everything in between.</h3> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=preciousbetine&label=Profile%20views&color=0e75b6&style=flat" alt="preciousbetine" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preciousbetine" alt="preciousbetine" /></a> </p> -->
 
-🔭 I’m currently working on **My Operating System**
-
+<!-- 🔭 I’m currently working on **My Operating System**
 🌱 I’m currently learning **AI and Web Development**
-
 👯 I’m looking to collaborate on **Fullstack Web Development Projects**
+📫 Reach me via **preciousbetine@gmail.com** ⚡ -->
 
-📫 Reach me via **preciousbetine@gmail.com** ⚡
+I’m currently working on **My Operating System** / learning **AI**...
+
 <!-- 
 <h3 align="left">Socials:</h3>
 <p align="left">
@@ -39,9 +39,9 @@
   <br />
   <br /> -->
 
-<p>
+<!-- <p>
   <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=preciousbetine&show_icons=true&locale=en" alt="preciousbetine" />
   <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=preciousbetine&show_icons=true&locale=en&layout=compact" alt="preciousbetine" />
 </p>
-
+ -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preciousbetine&" alt="preciousbetine" /></p> -->
