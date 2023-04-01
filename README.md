@@ -10,7 +10,7 @@
 👯 I’m looking to collaborate on **Fullstack Web Development Projects**
 📫 Reach me via **preciousbetine@gmail.com** ⚡ -->
 
-I’m currently working on **My Operating System** / learning **Machine Learning**
+I’m currently learning Full-stack web development at Microverse
 
 <!-- 
 <h3 align="left">Socials:</h3>
