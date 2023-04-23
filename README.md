@@ -12,6 +12,8 @@
 
 I’m currently learning Full-stack web development at [Microverse](https://github.com/microverseinc)
 
+<!-- ![](https://komarev.com/ghpvc/?username=preciousbetine) -->
+
 <!-- 
 <h3 align="left">Socials:</h3>
 <p align="left">
