@@ -1,3 +1,5 @@
-<h2>hey, there! 👋</h2>
+<h2>Welcome! 👋</h2>
 
-welcome to my github profile
+About me:
+Role: Full stack developer
+Stack: React and Rails
