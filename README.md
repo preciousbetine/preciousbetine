@@ -1,5 +1,5 @@
-<h2>Welcome! 👋</h2>
+<h3>About me</h3>
 
-About me:
-Role: Full stack developer
-Stack: React and Rails
+**Role**: Full stack developer
+<br />
+**Stack**: React and Rails
