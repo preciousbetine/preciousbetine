@@ -2,4 +2,4 @@
 
 **Role**: Full stack web developer
 <br />
-**Stack**: React, Ruby on Rails
+**Stack**: React.js, Next.js, Ruby on Rails
